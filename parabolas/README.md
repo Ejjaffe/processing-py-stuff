@@ -5,5 +5,5 @@ Inspired by this post by [numb3rth30ry](https://www.instagram.com/p/CQTWTBYH_4r/
 # Parabola 
 
 # Parabola Up Down Shapes Speeds
-![a gif](parabola_up_and_down_shapes_speeds/parbola_up_down_shapes_speeds.gif)
+![a gif](parabola_up_and_down_random_shapes_speeds/parbola_up_down_shapes_speeds.gif)
 
